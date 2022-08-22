@@ -1,1 +1,1 @@
-My first readme
+i try the git command
