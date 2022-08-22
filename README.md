@@ -1,1 +1,1 @@
-i try the git command
+i try git command
